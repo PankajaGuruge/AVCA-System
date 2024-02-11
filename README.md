@@ -64,6 +64,12 @@ To use the AVCA System, follow these steps:
 ## Contributing
 
 Contributions to the AVCA System project are welcome. Feel free to submit bug reports, feature requests, or pull requests to help improve the system's functionality and effectiveness.
-License
+
+## License
+Licensed under the [MIT License](LICENSE).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+© 2024 Pankaja Guruge. All rights reserved.
 
 By collaborating on the Animal-Vehicle Collision Avoidance (AVCA) System, we strive to create safer highways for both humans and wildlife, leveraging innovative technology and sustainable solutions. Thank you for your interest and support in our endeavor.
